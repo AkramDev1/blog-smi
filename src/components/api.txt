@@ -1,0 +1,9 @@
+getArticles
+getCategories == static
+getArticledetail
+getSimilarArticles === by category
+
+getCategoryArticle
+
+submitComment
+GetComments
